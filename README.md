@@ -1,10 +1,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Usage
 
-
+git clone https://github.com/RuslanKol/house-shop-example.git
 npm i<br>
 npm run start<br>
 
+## About
+ 
+ Simple react application for sale. <br>
+ Flux architecture realized with react-redux. <br>
+ For asynchronous requests used redux-thunk. <br>
+ React-router for detailed product page.
 
 ## Available Scripts
 
