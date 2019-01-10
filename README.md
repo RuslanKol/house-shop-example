@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Usage
 
-git clone https://github.com/RuslanKol/house-shop-example.git
+git clone https://github.com/RuslanKol/house-shop-example.git <br>
 npm i<br>
 npm run start<br>
 
